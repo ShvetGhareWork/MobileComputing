@@ -1,0 +1,42 @@
+
+> componentkit@1.0.0 web
+> expo start --web
+
+Starting project at /app/Experiment 10 - GUI/ComponentKit
+Starting Metro Bundler
+
+Waiting on http://localhost:8081
+Logs for your project will appear below.
+Web node_modules/expo-router/entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 1362ms node_modules/expo-router/entry.js (1116 modules)
+ LOG  [web] Logs will appear in the browser console
+Web node_modules/expo-sqlite/web/worker.ts ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 87.9% (15/16)
+Web Bundled 1570ms node_modules/expo-sqlite/web/worker.ts (16 modules)
+Web node_modules/expo-router/entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 1525ms node_modules/expo-router/entry.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 57ms node_modules/expo-sqlite/web/worker.ts (1 module)
+Web node_modules/expo-router/entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 92ms node_modules/expo-router/entry.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 3ms node_modules/expo-sqlite/web/worker.ts (1 module)
+Web node_modules/expo-router/entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 60ms node_modules/expo-router/entry.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 3ms node_modules/expo-sqlite/web/worker.ts (1 module)
+Web node_modules/expo-router/entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 421ms node_modules/expo-router/entry.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 5ms node_modules/expo-sqlite/web/worker.ts (1 module)
+Web node_modules/expo-router/entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 174ms node_modules/expo-router/entry.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 5ms node_modules/expo-sqlite/web/worker.ts (1 module)
+Web node_modules/expo-router/entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 260ms node_modules/expo-router/entry.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 2ms node_modules/expo-sqlite/web/worker.ts (1 module)
+Web node_modules/expo-router/entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 248ms node_modules/expo-router/entry.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 2ms node_modules/expo-sqlite/web/worker.ts (1 module)
