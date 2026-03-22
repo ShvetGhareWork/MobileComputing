@@ -10,10 +10,9 @@ A React Native application demonstrating the use of the HTML5 Canvas API (via `r
 - Clear Canvas and Export options
 
 ## Screenshots
-![Canvas 1](./SmartCanvas/ss1.png)
-![Canvas 2](./SmartCanvas/ss2.png)
+![Canvas 1](./ss1.png)
+![Canvas 2](./ss2.png)
 
 ## How to Run
-1. Go to directory: `cd SmartCanvas`
-2. Install dependencies: `npm install`
-3. Start the project: `npm start`
+1. Install dependencies: `npm install`
+2. Start the project: `npm start`

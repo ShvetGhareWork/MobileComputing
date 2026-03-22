@@ -10,10 +10,9 @@ A React Native application demonstrating the usage of `react-native-ble-plx` or 
 - Bluetooth state management (ON/OFF detection)
 
 ## Screenshots
-![Bluetooth Scan](./BlueDrop/ss1.png)
-![Bluetooth Pair](./BlueDrop/ss2.png)
+![Bluetooth Scan](./ss1.png)
+![Bluetooth Pair](./ss2.png)
 
 ## How to Run
-1. Go to directory: `cd BlueDrop`
-2. Install dependencies: `npm install`
-3. Start the project: `npx expo start`
+1. Install dependencies: `npm install`
+2. Start the project: `npx expo start`

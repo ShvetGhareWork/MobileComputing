@@ -10,10 +10,9 @@ A background monitoring and alert system implemented using `expo-notifications`,
 - Low-latency response to system events
 
 ## Screenshots
-![Notification View](./PingBox/ss1.png)
-![Alert Settings](./PingBox/ss2.png)
+![Notification View](./ss1.png)
+![Alert Settings](./ss2.png)
 
 ## How to Run
-1. Go to directory: `cd PingBox`
-2. Install dependencies: `npm install`
-3. Run: `npx expo start`
+1. Install dependencies: `npm install`
+2. Run: `npx expo start`

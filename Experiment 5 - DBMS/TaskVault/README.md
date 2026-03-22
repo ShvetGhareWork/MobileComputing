@@ -10,10 +10,9 @@ A Task/Note management application showing how to integrate `expo-sqlite` for pe
 - Smooth animations for task transitions
 
 ## Screenshots
-![Task List](./TaskVault/ss1.png)
-![Task Edit](./TaskVault/ss2.png)
+![Task List](./ss1.png)
+![Task Edit](./ss2.png)
 
 ## How to Run
-1. Go to directory: `cd TaskVault`
-2. Install dependencies: `npm install`
-3. Run: `npx expo start`
+1. Install dependencies: `npm install`
+2. Run: `npx expo start`

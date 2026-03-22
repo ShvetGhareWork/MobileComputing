@@ -10,10 +10,9 @@ A comprehensive GUI dashboard built using `react-native-paper` and `react-hook-f
 - Multi-navigator architecture (Stack + Tabs)
 
 ## Screenshots
-![GUI 1](./ComponentKit/ss1.png)
-![GUI 2](./ComponentKit/ss2.png)
+![GUI 1](./ss1.png)
+![GUI 2](./ss2.png)
 
 ## How to Run
-1. Go to directory: `cd ComponentKit`
-2. Install dependencies: `npm install`
-3. Run: `npx expo start`
+1. Install dependencies: `npm install`
+2. Run: `npx expo start`

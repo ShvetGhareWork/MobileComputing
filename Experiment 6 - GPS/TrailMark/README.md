@@ -14,6 +14,5 @@ A Real-time location tracking application using `expo-location` and `react-nativ
 ![Location History](./ss2.png)
 
 ## How to Run
-1. Go to directory: `cd TrailMark`
-2. Install dependencies: `npm install`
-3. Run: `npx expo start`
+1. Install dependencies: `npm install`
+2. Run: `npx expo start`
