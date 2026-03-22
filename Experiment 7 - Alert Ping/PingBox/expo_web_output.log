@@ -1,0 +1,26 @@
+
+> pingbox@1.0.0 web
+> expo start --web
+
+Starting project at /app/Experiment 7 - Alert Ping/PingBox
+Starting Metro Bundler
+
+Waiting on http://localhost:8081
+Logs for your project will appear below.
+Web node_modules/expo-router/entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 1359ms node_modules/expo-router/entry.js (929 modules)
+ LOG  [web] Logs will appear in the browser console
+Web node_modules/expo-sqlite/web/worker.ts ▓▓▓▓▓▓▓░░░░░░░░░ 47.3% (11/16)
+Web Bundled 1876ms node_modules/expo-sqlite/web/worker.ts (16 modules)
+Web node_modules/expo-router/entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 59ms node_modules/expo-router/entry.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 7ms node_modules/expo-sqlite/web/worker.ts (1 module)
+Web node_modules/expo-router/entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 58ms node_modules/expo-router/entry.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 14ms node_modules/expo-sqlite/web/worker.ts (1 module)
+Web node_modules/expo-router/entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 2373ms node_modules/expo-router/entry.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 71ms node_modules/expo-sqlite/web/worker.ts (1 module)
