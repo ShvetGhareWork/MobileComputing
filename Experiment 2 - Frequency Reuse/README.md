@@ -1,6 +1,17 @@
-# Experiment 2 - Frequency Reuse
+# Experiment 2: Frequency Reuse Simulation
 
-This project demonstrates frequency reuse concepts using Python.
+## Description
+A Python simulation to demonstrate the concept of frequency reuse in cellular networks. The simulation calculates the cluster size (N), reuse distance (D), and signal-to-interference ratio (SIR) based on user-defined parameters.
 
-## Files
-- `code.py`: Main Python script.
+## Parameters
+- Hexagonal cell layout simulation
+- Path loss exponent adjustment
+- Co-channel interference visualization
+- Cluster size calculation ($N = i^2 + ij + j^2$)
+
+## Screenshots
+![Frequency Reuse Plot](./ss1.jpeg)
+
+## How to Run
+1. Ensure Python 3.x is installed.
+2. Run the script: `python code.py`
